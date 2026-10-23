@@ -6,6 +6,8 @@ A bar widget for the [end-4/dots-hyprland](https://github.com/end-4/dots-hyprlan
 
 It only works with those dots: it patches ii's bar and relies on its components.
 
+![Example of the indicator in the bar](indicator.png)
+
 | Color  | Meaning                                         | Hook event                       |
 | ------ | ----------------------------------------------- | -------------------------------- |
 | Grey   | Session started, nothing asked yet              | `SessionStart`                   |
